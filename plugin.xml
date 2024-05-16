@@ -21,7 +21,7 @@
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
     xmlns:android="http://schemas.android.com/apk/res/android"
     id="cordova-plugin-media-capture-mp4video"
-    version="1.0.6">
+    version="1.0.7">
 
     <name>cordova-plugin-media-capture-mp4video</name>
 
