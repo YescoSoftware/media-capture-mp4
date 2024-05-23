@@ -1,6 +1,6 @@
 ---
 title: Media Capture With MP4 Video Capture for Android / iOS
-description: Capture audio, video, and images.
+description: Capture audio, video, and images. Modified for use with Alpha Anywhere
 ---
 
 <!--
@@ -54,7 +54,8 @@ Although in the global scope, it is not available until after the `deviceready` 
 
 ## Installation
 
-    cordova plugin add cordova-plugin-media-capture-mp4video
+     cordova plugin add https://github.com/remoorejr/cordova-plugin-media-capture-mp4video.git
+
 
 ## Supported Platforms
 
